@@ -84,7 +84,7 @@ preferences:
 encoding: utf-8
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed 
   - jekyll-sitemap 
