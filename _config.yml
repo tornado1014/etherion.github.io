@@ -84,7 +84,7 @@ preferences:
 encoding: utf-8
 
 # Build settings
-theme: null
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed 
   - jekyll-sitemap 
